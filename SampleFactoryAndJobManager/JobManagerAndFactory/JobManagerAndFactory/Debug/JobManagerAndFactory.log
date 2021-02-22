@@ -1,0 +1,6 @@
+﻿  JobFactory.cpp
+  JobManager.cpp
+  JobManagerAndFactory.cpp
+  PatchJobService.cpp
+  Generating Code...
+  JobManagerAndFactory.vcxproj -> F:\Samples\SampleFactoryAndJobManager\JobManagerAndFactory\Debug\JobManagerAndFactory.exe
